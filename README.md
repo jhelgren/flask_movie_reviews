@@ -1,4 +1,4 @@
-## Flask Demo with a Database of Moview Reviews
+## Flask Demo with a Database of Movie Reviews
 
 This code creates a database of movies and reviews, which can be queried with a web browser. The code uses three data sources to generate a mock data set:
 
